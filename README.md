@@ -21,3 +21,6 @@ I'm Eliana :)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elianabean&layout=compact&theme=material-palenight" />
 
 </a><br>
+
+<img src="https://github.com/Elianabean/Elianabean/blob/main/test1.gif"/>
+
