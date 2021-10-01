@@ -22,5 +22,5 @@ I'm Eliana :)
 
 </a><br>
 
-<img src="https://github.com/Elianabean/blob/main/test1.gif"/>
+<img src="https://github.com/Elianabean/Elianabean/blob/main/test1.gif"/>
 
